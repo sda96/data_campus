@@ -9,4 +9,5 @@ github 사용법
 8. git bash 창에서 git remote add origin (git clone url) # 깃허브 repo와 local repo 연결
 8. git bash 창에서 git push -u origin master # 깃허브 repo에 작업물 업로드 완료
 9. 위의 순서대로 해서 안되면 인터넷 찾아보기
+
 p.s git이 깔려있으면 cmd창에서도 가능
