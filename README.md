@@ -27,3 +27,7 @@ p.s git이 깔려있으면 cmd창에서도 가능
  git branch chang (chang이라는 이름의 branch 생성)
  
  git checkout chang (chang이라는 이름의 branch로 이동)
+
+참고사이트 : 
+1. https://backlog.com/git-tutorial/kr/stepup/stepup2_5.html, 
+2. 허민석 유튜브 깃허브 강좌 영상
