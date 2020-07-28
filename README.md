@@ -24,4 +24,6 @@ p.s git이 깔려있으면 cmd창에서도 가능
 
  git branch  (현재 branch 확인하기)
  
- git checkout chang (chang이라는 이름의 branch 생성)
+ git branch chang (chang이라는 이름의 branch 생성)
+ 
+ git checkout chang (chang이라는 이름의 branch로 이동)
