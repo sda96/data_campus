@@ -5,6 +5,7 @@ github 사용법
 
 3.1 git 처음시작시 로그인 설정하기
 3.1.1 git config --global user.email "you@example.com"
+
 3.1.2 git config --global user.name "Your Name"
 
 
