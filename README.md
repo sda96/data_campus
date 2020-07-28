@@ -1,9 +1,10 @@
-github 사용법
+#github 사용법
 1. git 설치
 2. git 설치 완료시 원하는 경로에 새 폴더 생성
 3. 작업해온 내용 새 폴더로 이동
 
 3.1 git 처음시작시 로그인 설정하기
+
 3.1.1 git config --global user.email "you@example.com"
 
 3.1.2 git config --global user.name "Your Name"
@@ -18,3 +19,9 @@ github 사용법
 9. 위의 순서대로 해서 안되면 인터넷 찾아보기
 
 p.s git이 깔려있으면 cmd창에서도 가능
+
+#나만의 브랜치 만들기
+
+ git branch  (현재 branch 확인하기)
+ 
+ git checkout chang (chang이라는 이름의 branch 생성)
