@@ -22,13 +22,19 @@ p.s git이 깔려있으면 cmd창에서도 가능
 
 #나만의 브랜치 만들기
 
+ github 사용벙의 6단계까지 진행 후 (git commit -m "")
+ 
  git branch  (현재 branch 확인하기)
  
  git branch chang (chang이라는 이름의 branch 생성)
  
  git checkout chang (chang이라는 이름의 branch로 이동)
 
+ git push -u origin chang 또는 git push -f origin chang
+ 
 참고사이트 : 
 1. https://backlog.com/git-tutorial/kr/stepup/stepup2_5.html, 
 2. 허민석 유튜브 깃허브 강좌 영상
 3. https://medium.com/@pks2974/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B8%B0%EC%B4%88-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-533b3689db81
+4. https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EB%B8%8C%EB%9E%9C%EC%B9%98
+5. https://wikim.tistory.com/201
